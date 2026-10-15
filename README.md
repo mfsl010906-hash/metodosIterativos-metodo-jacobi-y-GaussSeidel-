@@ -73,5 +73,5 @@ Iteración 6: x1 = 0.99999, x2 = 1.00000, x3 = 1.00000 (Error: 0.000072)
 Gauss-Seidel convergió en la iteración 6
 Process finished with exit code 0
 
-conclusion
+**conclusion** El Método de Gauss-Seidel demostró ser significativamente más eficiente que el Método de Jacobi, logrando converger en tan solo 6 iteraciones, mientras que Jacobi necesitó 16 iteraciones para cumplir con la condición de paro.
 

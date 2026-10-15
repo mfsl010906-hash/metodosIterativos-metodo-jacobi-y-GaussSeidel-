@@ -15,11 +15,7 @@ El proyecto está estructurado en tres componentes principales para garantizar l
 3. **Módulo 3 (`Main.java`):** Clase principal de ejecución que instancia los datos y realiza la llamada secuencial a ambos métodos para su comparación.
 
 ## ⚙️ Instrucciones de Compilación y Ejecución
-1. Clona este repositorio o descarga el código fuente en tu computadora.
-2. Abre el proyecto en tu entorno de desarrollo favorito compatible con Java (como **IntelliJ IDEA** o Eclipse).
-3. Asegúrate de que las tres clases (`Defmatrix.java`, las clases de los métodos iterativos y `Main.java`) se encuentren dentro del mismo paquete o directorio `src`.
-4. Ejecuta la clase principal **`Main.java`** para visualizar en la consola el comportamiento iterativo y los resultados comparativos de ambos métodos.
-
+https://github.com/mfsl010906-hash/metodosIterativos-metodo-jacobi-y-GaussSeidel-.git
 ## 📊 Sistema Evaluado
 El sistema de ecuaciones lineales implementado para asegurar la diagonal dominancia es:
 $$\begin{cases} 5x + y + z = 7 \\  x + 4y + z = 6 \\  x + 2y + 5z = 8 \end{cases}$$

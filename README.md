@@ -15,7 +15,28 @@ El proyecto está estructurado en tres componentes principales para garantizar l
 3. **Módulo 3 (`Main.java`):** Clase principal de ejecución que instancia los datos y realiza la llamada secuencial a ambos métodos para su comparación.
 
 ## ⚙️ Instrucciones de Compilación y Ejecución
-https://github.com/mfsl010906-hash/metodosIterativos-metodo-jacobi-y-GaussSeidel-.git
+### Desde la Terminal/Consola
+
+1. Clonar el repositorio y acceder a la carpeta del proyecto:
+   ´´´bash
+   git clone <https://github.com/mfsl010906-hash/metodosIterativos-metodo-jacobi-y-GaussSeidel-.git>
+   cd <metodosIterativos-metodo-jacobi-y-GaussSeidel>
+   ´´´
+
+3. Compilar los archivos fuente:
+   ´´´bash
+   javac *.java
+   ´´´
+
+4. Ejecutar las clase de prueba:
+   
+   - Para probar la **Main**
+     ´´´bash
+     java Main
+     ´´´
+
+---
+
 ## 📊 Sistema Evaluado
 El sistema de ecuaciones lineales implementado para asegurar la diagonal dominancia es:
 $$\begin{cases} 5x + y + z = 7 \\  x + 4y + z = 6 \\  x + 2y + 5z = 8 \end{cases}$$
